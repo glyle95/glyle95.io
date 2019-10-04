@@ -1,7 +1,9 @@
----
-layout: page
-title: About
-permalink: /about/
----
+### The Most Adorable Adventuring Camel in the World!
+![Ari](https://pbs.twimg.com/media/D_fw8eTUIAAolVB.jpg:large)
 
-This is Ari the Camel's blogsite. I started an [Instagram](https://deskgram.cc/adventuresofarithecamel) account in 2016 when I went to spend the summer in Israel.After the summer was over and I was back home in the United States, I decided to keep documenting my adventures!
+title: Adventures of Ari the Camel
+email: ari.the.camel@gmail.com
+description: Hi! I'm Ari the Camel! I'm an adventuring camel from the American Midwest who now lives in Texas. Join me as I explore this amazing world!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: arithecamel
